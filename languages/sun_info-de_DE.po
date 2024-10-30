@@ -1,0 +1,47 @@
+# German translations for PACKAGE package
+# German translation for PACKAGE.
+# Copyright (C) 2022 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Volker Voecking <volkerv@hacktosh.fritz.box>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-14 13:51+0100\n"
+"PO-Revision-Date: 2022-01-14 13:51+0100\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Widget background color
+#: classes/lsc_sun_info_widget.php:166
+msgid "Background color:"
+msgstr "Hintergrundfarbe"
+
+#: classes/lsc_sun_info_widget.php:129
+msgid "Latitude"
+msgstr "Breitengrad"
+
+#: classes/lsc_sun_info_widget.php:123
+msgid "Location"
+msgstr "Ort"
+
+#: classes/lsc_sun_info_widget.php:135
+msgid "Longitude"
+msgstr "Längengrad"
+
+#: classes/lsc_sun_info_widget.php:12
+msgid "LunaSolCal - Sun Info Widget"
+msgstr "LunaSolCal - Sonnen-Info Widget"
+
+#. Widget text color
+#: classes/lsc_sun_info_widget.php:173
+msgid "Text color:"
+msgstr "Textfarbe"
+
+#: classes/lsc_sun_info_widget.php:141
+msgid "Time zone"
+msgstr "Zeitzone"
